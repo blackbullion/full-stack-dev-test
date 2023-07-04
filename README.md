@@ -4,7 +4,7 @@ The aim of this test is for us to be able to assess your ablity to build APIs an
 
 ## Brief
 
-We would like you to create the APIs and entities required for 2 human players to play a game of [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)).
+We would like you to create the backend service and entities required for 2 human players to play a game of [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)) over the internet.
 
 At a minimum, players will need to interact with the following APIs:
 - Placing a ship
@@ -18,7 +18,7 @@ You don't need to build a frontend but think about the data a frontend would nee
 
 ## Technology
 
-Ideally we would like to see your project built using Node or PHP but you can use any language or framework you feel comfortable with.
+We work with Typescript and PHP but you can use any language or framework you feel comfortable with.
 
 ## Deliverable
 
